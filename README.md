@@ -63,7 +63,7 @@ O projeto integrará dados geoespaciais e ambientais, como correntes oceânicas,
 
 4. Validação dos Modelos
     - A validação dos modelos será feita utilizando cross-validation e técnicas como MAE (Erro Médio Absoluto) e RMSE (Raiz do Erro Quadrático Médio) para verificar a precisão.
-    - os dados serão dividos conjuntos de treino e teste para evitar overfitting.
+    - os dados serão divididos em conjuntos de treino e teste para evitar overfitting.
 
 5. Visualização e Relatório
     - Geração de mapas preditivos da distribuição de microplásticos no QGIS.
@@ -90,7 +90,7 @@ A estrutura de arquivos do projeto segue um formato modular para facilitar a org
 
 ```
 ## Requisitos
-Para reproduzir os resultados deste projeto, você precisará das seguintes ferramentas e bibliotecas instaladas:
+Para reproduzir os resultados deste projeto, será necessário as seguintes ferramentas e bibliotecas instaladas:
 
 ### Ferramentas de Geoprocessamento
 - **QGIS** 
